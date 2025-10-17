@@ -8,7 +8,7 @@ tags: owasp top-10 threats infrastructure infrastructure-threats security risks 
 
 ## Motivation
 
-To further improve the quality and significance of the OWASP Top 10 Infrastructure Security Risks, we kindly invite you to join our Open Call for Data for 2024 and 2025. There, you can contribute data, anonymously or publicly, to the project. Throughout 2024 and 2025, we will collect all the data and then process this data for use in 2026. This way, we plan to publish the OWASP Top 10 Infrastructure Security Risks - Version 2026 using an even more extensive dataset and further improve the quality and significance. If desired, contributors and donors will be recognized as sponsors on the relevant project pages. We also have plans to conduct CVE and CWE research for vulnerabilities regarding Infrastructure Security Risks.
+To further improve the quality and significance of the OWASP Top 10 Infrastructure Security Risks, we kindly invite you to join our Open Call for Data for 2025 and 2026. There, you can contribute data, anonymously or publicly, to the project. Throughout 2025 and 2026, we will collect all the data and then process this data for use to the end of the year in 2026. This way, we plan to publish the OWASP Top 10 Infrastructure Security Risks - Version 2026 using an even more extensive dataset and further improve the quality and significance. If desired, contributors and donors will be recognized as sponsors on the relevant project pages. We also have plans to conduct CVE and CWE research for vulnerabilities regarding Infrastructure Security Risks.
 
 ## What Data is needed?
 
