@@ -29,8 +29,8 @@ These are the reasons why this project came to life. We want to provide useful a
 
 ## Open Call for Data, Next Version and Contribution
 
-To further improve the quality and significance of the OWASP Top 10 Infrastructure Security Risks, we kindly invite you to join our Open Call for Data for 2024 and 2025.
-There, you can donate data, anonymously or publicly, to the Project. In the course of 2024 and 2025, we will collect all the data and then process it for 2026.
+To further improve the quality and significance of the OWASP Top 10 Infrastructure Security Risks, we kindly invite you to join our Open Call for Data for 2025 and 2026.
+There, you can donate data, anonymously or publicly, to the Project. In the course of 2025 and 2026, we will collect all the data and then process it for the end of year in 2026.
 This way, we plan to publish the OWASP Top 10 Infrastructure Security Risks - Version 2026 using an even more extensive dataset and further improve the quality and significance.
 Contributors and donors will be listed as sponsors, if they wish so, on the related project pages.
 We also plan on doing CVE and CWE research for vulnerabilities regarding Infrastructure Security Risks.
